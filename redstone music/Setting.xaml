@@ -1,0 +1,13 @@
+﻿<controls:MetroWindow x:Class="redstone_music.Setting"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="Setting" Height="216.667" Width="350" Background="#FF1E1E1F" Foreground="White" BorderBrush="#007ACC" Loaded="MetroWindow_Loaded" Closing="MetroWindow_Closing" WindowStartupLocation="CenterScreen">
+
+    <Grid>
+        <Label Content="工程文件保存路径:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <TextBox x:Name="SavePath" HorizontalAlignment="Left" Height="23" Margin="124,9,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="164" Foreground="White" Background="Transparent"/>
+        <Button x:Name="SelectPath" Content="..." HorizontalAlignment="Left" Margin="294,9,0,0" VerticalAlignment="Top" Width="29" Background="#00F7F7F7" Foreground="White" Click="SelectPath_Click"/>
+
+    </Grid>
+</controls:MetroWindow>

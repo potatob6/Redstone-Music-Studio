@@ -1,0 +1,17 @@
+﻿<controls:MetroWindow x:Class="redstone_music.Welcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:redstone_music"
+        mc:Ignorable="d"
+        AllowsTransparency="True"
+        Title="Welcome" Height="366.276" Width="555.172" WindowStyle="None" Background="White">
+    <Grid x:Name="grid">
+        <Canvas x:Name="canvas" HorizontalAlignment="Left" Height="336" VerticalAlignment="Top" Width="547">
+            <Image x:Name="image" Height="369" Width="557" Source="resource/CR4_`4~3$Q8S)4]9J96~U}J.png" Stretch="UniformToFill"/>
+        </Canvas>
+
+    </Grid>
+</controls:MetroWindow>

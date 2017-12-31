@@ -1,0 +1,10 @@
+﻿<controls:MetroWindow x:Class="redstone_music.LoadingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        Title="LoadingWindow" Height="375" Width="701.19" WindowStyle="None" ResizeMode="NoResize" Background="#FF00A2FF" Loaded="MetroWindow_Loaded">
+    <Grid>
+        <Label x:Name="lb" Content="正在检查资源文件是否缺失" HorizontalAlignment="Left" Margin="132,112,0,0" VerticalAlignment="Top" FontSize="40" Width="569"/>
+        <Label Content="♪" HorizontalAlignment="Left" Margin="69,66,0,0" VerticalAlignment="Top" FontSize="100"/>
+    </Grid>
+</controls:MetroWindow>

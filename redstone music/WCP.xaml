@@ -1,0 +1,22 @@
+﻿<controls:MetroWindow x:Class="redstone_music.WCP"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:redstone_music"
+        mc:Ignorable="d"
+        Title="Welcome to Redstone Music studio" Height="447.413" Width="575" Closing="MetroWindow_Closing" Background="#FF0BBDFF">
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="428" VerticalAlignment="Top" Width="577" Source="resource/CR4_`4~3$Q8S)4]9J96~U}J.png" Stretch="UniformToFill" Margin="0,0,-10,-11"/>
+        <Canvas Margin="0,0,412,328">
+            <Rectangle Height="66" Width="136" Canvas.Left="10" Canvas.Top="10" RadiusY="9.142" RadiusX="9.142" Fill="White" MouseLeftButtonDown="Rectangle_MouseLeftButtonDown" MouseEnter="Rectangle_MouseEnter" MouseLeave="Rectangle_MouseLeave" Opacity="0.4"/>
+            <Label Height="33" Width="67" Canvas.Left="43" Canvas.Top="26" Content="音轨1" Foreground="#FF0080FF" FontSize="20"/>
+        </Canvas>
+        <Canvas Margin="160,0,252,328">
+            <Rectangle Height="66" Width="136" Canvas.Left="10" Canvas.Top="10" RadiusY="9.142" RadiusX="9.142" Fill="White" MouseEnter="Rectangle_MouseEnter" MouseLeave="Rectangle_MouseLeave" Opacity="0.4"/>
+            <Label Height="47" Width="39" Canvas.Left="61" Canvas.Top="14" Content="+" Foreground="#FF0080FF" FontSize="36"/>
+        </Canvas>
+
+    </Grid>
+</controls:MetroWindow>

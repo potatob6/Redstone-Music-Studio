@@ -1,0 +1,597 @@
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\bin\Debug\redstone music.exe.config
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\App.baml
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\redstone music.g.resources
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\bin\Debug\redstone music.exe
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\bin\Debug\redstone music.pdb
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\redstone music.exe
+D:\Documents\Visual Studio 2013\Projects\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\redstone music\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\redstone music\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\redstone music\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\redstone music\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\redstone music\redstone music\obj\Debug\App.baml
+E:\Vs project\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\redstone music\redstone music\obj\Debug\App.g.cs
+E:\Vs project\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\redstone music\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\bin\Debug\redstone music.exe.config
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\redstone music.exe
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\redstone music.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\bin\Debug\redstone music.exe
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\bin\Debug\redstone music.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\MainWindow.baml
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\App.baml
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\App.g.cs
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\redstone music.g.resources
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+D:\QQ缓存\2467295749\FileRecv\redstone music\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+D:\redstone music\redstone music\bin\Debug\redstone music.exe.config
+D:\redstone music\redstone music\obj\Debug\redstone music.exe
+D:\redstone music\redstone music\obj\Debug\redstone music.pdb
+D:\redstone music\redstone music\bin\Debug\redstone music.exe
+D:\redstone music\redstone music\bin\Debug\redstone music.pdb
+D:\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+D:\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+D:\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+D:\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+D:\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+D:\redstone music\redstone music\obj\Debug\MainWindow.baml
+D:\redstone music\redstone music\obj\Debug\App.baml
+D:\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+D:\redstone music\redstone music\obj\Debug\App.g.cs
+D:\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+D:\redstone music\redstone music\obj\Debug\redstone music.g.resources
+D:\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+D:\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+D:\QQ缓存\2467295749\FileRecv\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+C:\Users\Administrator\Desktop\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\redstone music 9\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\redstone music 10\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\redstone music 11\redstone music 8\redstone music 8\redstone music 6\redstone music 6\redstone music(2)(1)\redstone music(2)\redstone music\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\12\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\12\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\12\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\12\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\12\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\12\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\12\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\12\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\12\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\12\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\12\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\12\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\12\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\12\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\12\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\12\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\12\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\12\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\12\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\12\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\12\redstone music\bin\Debug\redstone music.exe.config
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\12\redstone music\bin\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\12\redstone music\bin\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\12\redstone music\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\12\redstone music\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\12\redstone music\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\12\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\Setting.baml
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\Setting.g.cs
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\redstone music.g.resources
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+C:\Users\Administrator\Desktop\12\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\13\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\13\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\13\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\13\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\13\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\13\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\13\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\13\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\13\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\13\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\13\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\13\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\13\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\13\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\13\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\13\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\13\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\13\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\13\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\13\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\bin\Debug\redstone music.exe.config
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\bin\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\bin\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\Setting.baml
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\Setting.g.cs
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\redstone music.g.resources
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RMS\13\13\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\14\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\14\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\14\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\15\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\15\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\15\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\15\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\15\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\15\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\15\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\15\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\15\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\15\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\15\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\15\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\15\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\15\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\15\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\15\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\15\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\15\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\15\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\15\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\16\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\16\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\16\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\16\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\16\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\16\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\16\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\16\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\16\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\16\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\16\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\16\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\16\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\16\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\16\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\16\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\16\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\16\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\16\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\16\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\bin\Debug\redstone music.exe.config
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\bin\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\bin\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\Setting.baml
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\Setting.g.cs
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\redstone music.g.resources
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RMS\垃圾RMS 16\垃圾RMS 16\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\17\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\17\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\17\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\17\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\17\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\17\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\17\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\17\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\17\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\17\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\17\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\17\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\17\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\17\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\17\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\17\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\17\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\17\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\17\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\17\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\RMS\17\redstone music\bin\Debug\redstone music.exe.config
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\17\redstone music\bin\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\17\redstone music\bin\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\17\redstone music\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\RMS\17\redstone music\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\RMS\17\redstone music\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\RMS\17\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\Setting.baml
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\Setting.g.cs
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\redstone music.g.resources
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RMS\17\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\18\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\18\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\18\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\18\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\18\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\18\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\18\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\18\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\18\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\18\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\18\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\18\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\18\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\18\redstone music\obj\Debug\redstone music_Content.g.cs
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\bin\Debug\redstone music.exe.config
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\bin\Debug\redstone music.exe
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\bin\Debug\redstone music.pdb
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\bin\Debug\MahApps.Metro.dll
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\bin\Debug\MahApps.Metro.pdb
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\bin\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\Setting.baml
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\Setting.g.cs
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\redstone music.g.resources
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\LoadingWindow.baml
+C:\Users\Administrator\Desktop\RMS\19\19\redstone music\obj\Debug\LoadingWindow.g.cs
+E:\Vs project\rs\20\19\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\20\19\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\20\19\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\20\19\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\20\19\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\20\19\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\20\19\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\20\19\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\20\19\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\20\19\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\20\19\redstone music\obj\Debug\LoadingWindow.baml
+E:\Vs project\rs\20\19\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\20\19\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\20\19\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\20\19\redstone music\obj\Debug\LoadingWindow.g.cs
+E:\Vs project\rs\20\19\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\20\19\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\20\19\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\20\19\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\20\19\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\20\19\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\20\19\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\21\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\21\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\21\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\21\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\21\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\21\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\21\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\21\redstone music\obj\Debug\LoadingWindow.baml
+E:\Vs project\rs\21\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\21\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\21\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\21\redstone music\obj\Debug\LoadingWindow.g.cs
+E:\Vs project\rs\21\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\21\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\21\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\21\redstone music\obj\Debug\WCP.g.cs
+E:\Vs project\rs\21\redstone music\obj\Debug\redstone music_MarkupCompile.lref
+E:\Vs project\rs\21\redstone music\obj\Debug\WCP.baml
+E:\Vs project\rs\21\redstone music\obj\Debug\Welcome.g.cs
+E:\Vs project\rs\21\redstone music\obj\Debug\Welcome.baml
+E:\Vs project\rs\22\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\22\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\22\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\22\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\22\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\22\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\22\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\22\redstone music\obj\Debug\LoadingWindow.baml
+E:\Vs project\rs\22\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\22\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\22\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\22\redstone music\obj\Debug\LoadingWindow.g.cs
+E:\Vs project\rs\22\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\22\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\22\redstone music\obj\Debug\WCP.g.cs
+E:\Vs project\rs\22\redstone music\obj\Debug\Welcome.g.cs
+E:\Vs project\rs\22\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone music_MarkupCompile.lref
+E:\Vs project\rs\22\redstone music\obj\Debug\WCP.baml
+E:\Vs project\rs\22\redstone music\obj\Debug\Welcome.baml
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\22\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache
+E:\Vs project\rs\23\redstone music\bin\Debug\redstone music.exe.config
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone music.exe
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone music.pdb
+E:\Vs project\rs\23\redstone music\bin\Debug\redstone music.exe
+E:\Vs project\rs\23\redstone music\bin\Debug\redstone music.pdb
+E:\Vs project\rs\23\redstone music\bin\Debug\MahApps.Metro.dll
+E:\Vs project\rs\23\redstone music\bin\Debug\System.Windows.Interactivity.dll
+E:\Vs project\rs\23\redstone music\bin\Debug\MahApps.Metro.pdb
+E:\Vs project\rs\23\redstone music\bin\Debug\MahApps.Metro.xml
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone music.csprojResolveAssemblyReference.cache
+E:\Vs project\rs\23\redstone music\obj\Debug\LoadingWindow.baml
+E:\Vs project\rs\23\redstone music\obj\Debug\MainWindow.baml
+E:\Vs project\rs\23\redstone music\obj\Debug\Setting.baml
+E:\Vs project\rs\23\redstone music\obj\Debug\App.baml
+E:\Vs project\rs\23\redstone music\obj\Debug\LoadingWindow.g.cs
+E:\Vs project\rs\23\redstone music\obj\Debug\MainWindow.g.cs
+E:\Vs project\rs\23\redstone music\obj\Debug\Setting.g.cs
+E:\Vs project\rs\23\redstone music\obj\Debug\WCP.g.cs
+E:\Vs project\rs\23\redstone music\obj\Debug\Welcome.g.cs
+E:\Vs project\rs\23\redstone music\obj\Debug\App.g.cs
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone music_MarkupCompile.cache
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone music_MarkupCompile.lref
+E:\Vs project\rs\23\redstone music\obj\Debug\WCP.baml
+E:\Vs project\rs\23\redstone music\obj\Debug\Welcome.baml
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone music.g.resources
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone_music.Properties.Resources.resources
+E:\Vs project\rs\23\redstone music\obj\Debug\redstone music.csproj.GenerateResource.Cache

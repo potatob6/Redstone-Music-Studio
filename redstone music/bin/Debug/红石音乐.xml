@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RedstoneMusic>
+  <Node point="200,350" Content="-Mi" />
+  <Node point="325,250" Content="Re" />
+  <Node point="375,225" Content="Mi" />
+  <Node point="450,225" Content="Mi" />
+  <Node point="525,350" Content="-Mi" />
+  <Node point="475,375" Content="-Fa" />
+  <Node point="300,350" Content="-Mi" />
+</RedstoneMusic>
